@@ -6,4 +6,4 @@ The purpose of this project is to build an interactive dashboard to visualize th
 
 ## Belly Button Biodiversity Webpage
 
-here is the link to the webpage to access the data https://stevenyouv.github.io/plotly_chart/
+This is the link to the webpage to access the data https://stevenyouv.github.io/plotly_chart/
